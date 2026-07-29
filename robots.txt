@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-shirts-note.best-seocho-karaoke.xyz/sitemap.xml
